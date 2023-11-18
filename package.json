@@ -2,5 +2,16 @@
   "dependencies": {
     "mysql2": "^3.6.3",
     "sequelize": "^6.35.0"
-  }
+  },
+  "name": "sequelize",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
